@@ -15,8 +15,15 @@
    - 연락처 (단답형)
    - 날짜 (날짜 선택)
    - 관심 주제 (체크박스 다중 선택)
-4. 필수항목 설정 및 디자인 테마 적용
-5. 미리보기 및 응답 테스트
+
+   ```참고``` 답변별 질문 이동하기 예: 
+   ![image](https://github.com/user-attachments/assets/32318489-f4f0-4b0d-99a7-14afa1b15054)
+   답변에 따라 다음 질문 이동 선택 가능
+   ![image](https://github.com/user-attachments/assets/28b16784-f81d-4edb-b83d-654057ca768d) 
+
+5. 필수항목 설정 및 디자인 테마 적용
+6. 미리보기 및 응답 테스트
+
 
 ---
 
@@ -47,6 +54,7 @@
 
 1. 네이버폼 응답 결과 확인 (막대그래프, 응답 비율 등)
 2. Excel 다운로드 버튼 클릭 → 파일 저장
+  ![image](https://github.com/user-attachments/assets/39aa7a8c-6a95-4bc4-a672-3551f177950d)
 3. 엑셀에서 정렬/필터 기능 실습 (예: 날짜별, 관심 항목별 보기)
 
 ---
