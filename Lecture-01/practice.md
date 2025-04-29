@@ -101,7 +101,7 @@
 ### 실습 내용:
 
 1. [Power Automate](https://powerautomate.microsoft.com/) 접속
-   - 예시 흐름 보기: Google Form → Excel 저장 → Outlook 이메일 알림
+   - 예시 흐름 보기: MS Form → Excel 저장 → Outlook 이메일 알림
 2. Copilot 예시 보기: Word 문서 요약, 엑셀 분석
 3. 내가 자주 하는 일 중 자동화 가능할 것 같은 흐름 상상해보기
 
