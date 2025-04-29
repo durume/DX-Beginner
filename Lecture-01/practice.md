@@ -39,10 +39,13 @@
    ![image](https://github.com/user-attachments/assets/3bd2bb66-cba4-4787-8608-0beba3d4a71c)
 2. 공유 링크 복사 후 새로운 창 또는 새로운 탭에 복사한 주소 넣고 공유
    ![image](https://github.com/user-attachments/assets/8e61745c-7b40-474f-bb8e-9f2f2b69a1da)
+   주소창에 복사한 주소 입력후 '엔터(Enter)'  
    ![image](https://github.com/user-attachments/assets/0bdeef79-26df-4b48-bbf2-28622f73810f)
-3. [네이버 QR 활용](https://qr.naver.com/)
-4. 스마트폰 카메라로 스캔하여 작동 확인
-5. QR코드 저장, 활용 또는 공유
+   해당 폼 공유 및 활용  
+   ![image](https://github.com/user-attachments/assets/3193c939-1f1a-432c-9f26-6c601e733a6b)
+4. [네이버 QR 활용](https://qr.naver.com/)
+5. 스마트폰 카메라로 스캔하여 작동 확인
+6. QR코드 저장, 활용 또는 공유
 
 ```주의``` QR코드는 이미지에 다양한 정보를 담아서 이미지로 쉽게 공유하는 것이므로 QR코드는 스캐너(또는 카메라)를 통해 활용이 가능하므로 카카오 또는 이메일 등에 첨부해서 사용할 때 목적에 잘 맞는 지 항상 고민할 필요가 있습니다.
 가령, 출석 체크를 위해 QR코드를 참가자별로 생성해서 만들어 공유한다면 QR은 이미지로 활용하는 것도 의미가 있지만 그렇지 않다면 그냥 콘텐츠가 담긴 링크를 공유하는 것이 더 적절할 수 있습니다.  
